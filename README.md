@@ -1,6 +1,7 @@
 # House-Price-Prediction
 
 This is a House Price Prediction Website.
+<br>
 The model is built using Linear Regression and the website is built using Flask
 The dataset for this project belonged to Banglore
 Link: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?select=Bengaluru_House_Data.csv
